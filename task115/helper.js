@@ -1,0 +1,1 @@
+export const objects = [{"name": "Newton"}, {"age": 21}, {"home": "Nairobi"}];
