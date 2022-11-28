@@ -11,7 +11,8 @@
       "description": [
         "Someone has crashed the code by initialising numbers as strings.",
         "",
-        "Fix the initialization of variables **x** and **y** to make sure the number 4 is logged to the console."
+        "Fix the initialization of variables `x` and `y` to make sure the number 4 is logged to the console.",
+        "Watch this video to [learn more about the differences between strings and numbers in JavaScript]()"
       ]
     },
     "ru": {
@@ -19,7 +20,8 @@
       "description": [
         "Кто-то сломал код тем что инициализировал числа как строки.",
         "",
-        "Исправь создание переменных **x** и **y** чтобы число 4 было выведено в консоль."
+        "Исправь создание переменных `x` и `y` в терминале появилось число 4.",
+        "Смотри это видео, чтобы [узнать больше о разнице между строками и числами в JavaScript]()"
       ]
     }
   }

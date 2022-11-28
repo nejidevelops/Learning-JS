@@ -11,7 +11,7 @@
       "description": [
         "A lot of times we need to fix the code styling in legacy projects.",
         "",
-        "Apply necessary changes and make sure all the variables names are written in camelCase."
+        "Apply necessary changes and make sure all the variables names are written in `camelCase`."
       ]
     },
     "ru": {
@@ -19,7 +19,7 @@
       "description": [
         "Очень часто в старых проектах нам нужно исправлять стиль кода.",
         "",
-        "Сделай необходимые изменения и убедись, что все имена всех переменных написаны в camelCase."
+        "Сделай необходимые изменения и убедись, что все имена всех переменных написаны в `camelCase`."
       ]
     }
   }
